@@ -1,3 +1,10 @@
+.playlist-cover {
+    width: 200px; /* Ajusta el ancho según lo necesites */
+    height: auto; /* Mantiene la proporción */
+    border-radius: 8px; /* Opcional: bordes redondeados */
+    margin-bottom: 15px; /* Separa la imagen de la tabla */
+    display: block;
+}
 /* Paleta de colores basada en tu imagen */
 :root {
     --color-1: #8EB9FC; /* Azul suave (Encabezados / Bordes) */
