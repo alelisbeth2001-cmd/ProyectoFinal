@@ -1,0 +1,47 @@
+*   98092c8 Merge pull request #6 from alelisbeth2001-cmd/angel
+|\  
+| * c35f24d PNG2
+| * 11a8af6 PNG
+* | 9b03425 Merge pull request #5 from alelisbeth2001-cmd/Angel
+|\| 
+* |   0b49b8d Merge pull request #4 from alelisbeth2001-cmd/Alejandra
+|\ \  
+| | | * f4fb96b arreglo
+| | | * 3edcf29 actualizacionreadme
+| | | * 77b9ed8 Revert "creacion de README"
+| | | * 40398e1 Merge branch 'Angel' of https://github.com/alelisbeth2001-cmd/ProyectoFinal into Alejandra
+| | |/| 
+| |/|/  
+| | * f610a5f arreglo 20
+| * | 956358e cambio
+| * |   0ddcc2d Merge branch 'master' of https://github.com/alelisbeth2001-cmd/ProyectoFinal into Alejandra
+| |\ \  
+| |/ /  
+|/| |   
+* | |   ba958c5 Merge pull request #3 from alelisbeth2001-cmd/Angel
+|\ \ \  
+| | |/  
+| |/|   
+| * | 08daa20 Conflicto
+| | *   7a5fef7 Merge branch 'master' of https://github.com/alelisbeth2001-cmd/ProyectoFinal into Alejandra
+| | |\  
+| |_|/  
+|/| |   
+* | |   248d26e Merge pull request #1 from alelisbeth2001-cmd/Alejandra
+|\ \ \  
+* \ \ \   822d4b5 Merge pull request #2 from alelisbeth2001-cmd/Angel
+|\ \ \ \  
+| | |/ /  
+| |/| |   
+| * | | 366cead Agregacio de style.css
+|/ / /  
+* | | 6722b36 css.
+| | * 2d18f49 Ale
+| |/  
+| * 2716200 mi galeria
+| * eda91f5 Cambios
+| * a828e52 css
+| * 59edb67 nuevo comentario en mi rama
+|/  
+* bfd8d0f creacion de README
+* e3df8f9 Ale
